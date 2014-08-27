@@ -1,0 +1,5 @@
+TWITTER:
+  API_KEY: '--api key--'
+  API_SECRET: '--api secret--'
+  TOKEN: '--token--'
+  TOKEN_SECRET: '--token secret--'
